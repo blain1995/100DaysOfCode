@@ -10,6 +10,7 @@ Because of this I've decided to attempt to keep these projects seperate from the
 Decided to go back to basics and follow a udemy course which has tonnes of projects. I got through 3 days worth of projects on a udemy course I am following, as this was fairly easy for me. The quiz they have suggested I could skip ahead, but I think I am going to power through the basics over the next few days so I can experience all the projects. Because of this, I'm hoping to have some time left over at the end of my journey to try and apply the skills I have learned through completing these projects to more biology/bioinformatics based problems.
 
 Highlights of the projects I completed have been uploaded:
+
 [bandname generator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_bandname.py)
 
 [tip calculator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_tipcalc.py)
