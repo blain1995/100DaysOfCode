@@ -11,10 +11,15 @@ Decided to go back to basics and follow a udemy course which has tonnes of proje
 
 Highlights of the projects I completed have been uploaded:
 [bandname generator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_bandname.py)
+
 [tip calculator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_tipcalc.py)
+
 [bmi checker](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_bmichecker.py)
+
 [pizza order](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_pizza.py)
+
 [treasure island game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_game.py)
+
 
 # Thoughts
 
