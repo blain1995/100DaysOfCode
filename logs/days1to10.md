@@ -2,7 +2,7 @@
 
 ## Day 1: 1st March 2021
 
-# Today's progress:
+### Today's progress:
 
 Aware that I have learnt python in a very "on the job" approach, I'm used to using python for data wrangling/visualisation but may have some knowledge gaps.
 Because of this I've decided to attempt to keep these projects seperate from the data science projects I am used to working on, and push myself to expand my python knowledge and skillset.
@@ -22,6 +22,6 @@ Highlights of the projects I completed have been uploaded:
 [treasure island game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_game.py)
 
 
-# Thoughts
+### Thoughts
 
 While I did enjoy these little coding tasks, I didn't find them very challenging as I am very comfortable with for loops etc, however this was fun and I'm excited for tomorrow's little coding projects.
