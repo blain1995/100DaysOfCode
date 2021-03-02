@@ -25,3 +25,21 @@ Highlights of the projects I completed have been uploaded:
 ### Thoughts
 
 While I did enjoy these little coding tasks, I didn't find them very challenging as I am very comfortable with for loops etc, however this was fun and I'm excited for tomorrow's little coding projects.
+
+## Day 2: 2nd March 2021
+
+### Today's progress:
+
+Continued the udemy projects, got through days 4 and 5 of this course today. The topics mainly covered were loops (which I am very comfortable using anyway) and random number generation (which I am less familiar with). These tasks were definitely a small step up from yesterday, but still not overly challenging. I'm excited to continue this journey, hopefully in a couple of days I will find the tasks a bit more challenging.
+
+Highlights of the projects I completed have been uploaded:
+
+[coin toss](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day2/day2_cointoss.py)
+
+[rock paper scissors](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day2/day2_rockpaper.py)
+
+[basic password generator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day2/day2_password.py)
+
+### Thoughts
+
+Pretty much the same as yesterday, I was quite tired today so maybe it was for the best! Excited for tomorrow :)
