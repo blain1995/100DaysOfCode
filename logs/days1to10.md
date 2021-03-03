@@ -43,3 +43,9 @@ Highlights of the projects I completed have been uploaded:
 ### Thoughts
 
 Pretty much the same as yesterday, I was quite tired today so maybe it was for the best! Excited for tomorrow :)
+
+## Day 3: 3rd March 2021
+
+I realise I wanted to keep this seperate from work but I used my 1 hour of #100daysofcode time to debug some code and create some interactive figures for my thesis using the plotly module in python. I really enjoyed this as I'm used to plotting figures using ggplot in R, or if I do use python I use matplotlib or seaborn. This was a nice change!
+
+Haven't made code public as it's currently in a privite thesis repository - will make it public once I submit!
