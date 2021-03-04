@@ -49,3 +49,15 @@ Pretty much the same as yesterday, I was quite tired today so maybe it was for t
 I realise I wanted to keep this seperate from work but I used my 1 hour of #100daysofcode time to debug some code and create some interactive figures for my thesis using the plotly module in python. I really enjoyed this as I'm used to plotting figures using ggplot in R, or if I do use python I use matplotlib or seaborn. This was a nice change!
 
 Haven't made code public as it's currently in a privite thesis repository - will make it public once I submit!
+
+## Day 4: 4th March 2021
+
+### Today's progress:
+
+Elaborated on yesterdays work to create a more complex password generator where the letters/symbols/numbers are shuffled. Also completed Hurdle challenges 1-4 and the maze in [Reeborgs world](https://reeborg.ca/index_en.html)
+
+Password generator can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day3/day3_password_difficult.py)
+
+### Thoughts
+
+I really enjoyed the Reeborgs world challenges, it was good to have the visualisation of where things were going wrong which allowed me to debug and fix my code. Excited for tomorrow!
