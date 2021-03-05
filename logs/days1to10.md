@@ -61,3 +61,19 @@ Password generator can be found [here](https://github.com/blain1995/100DaysOfCod
 ### Thoughts
 
 I really enjoyed the Reeborgs world challenges, it was good to have the visualisation of where things were going wrong which allowed me to debug and fix my code. Excited for tomorrow!
+
+## Day 5: 5th March 2021
+
+## Today's progress:
+
+Today I have built my own hangman game which has three levels of difficulty. A random word is generated using the random_words module and then difficulty determines the max length of the word picked at random.
+
+The word has to be a dictionary defined word. The game also prints out the stage based on number of incorrect guesses, each time the user starts with 6 lives. The game ends when either lives == 0 or all the letters have been guessed.
+
+The hangman script can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day5/day5_hangman.py)
+
+### Thoughts:
+
+If I'm honest, I really like this project - I think it's my favourite project I've worked on so far! I'm happy I managed to completed it with little googling.
+
+Bit sad but I'm actually really proud of this! 
