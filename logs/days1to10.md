@@ -56,7 +56,7 @@ Haven't made code public as it's currently in a privite thesis repository - will
 
 Elaborated on yesterdays work to create a more complex password generator where the letters/symbols/numbers are shuffled. Also completed Hurdle challenges 1-4 and the maze in [Reeborgs world](https://reeborg.ca/index_en.html)
 
-Password generator can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day3/day3_password_difficult.py)
+Password generator can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day4/day4_password_difficult.py)
 
 ### Thoughts
 
