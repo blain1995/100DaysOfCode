@@ -82,9 +82,9 @@ Bit sad but I'm actually really proud of this!
 
 ### Today's progress:
 
-I realised I had a small bug in yesterdays hangman script for the easy mode, so today I rectified this. I then also created a [number checker]((https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day6/day6_primecheck.py) to determine if a number is a prime number or not.
+I realised I had a small bug in yesterdays hangman script for the easy mode, so today I rectified this. I then also created a [number checker](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day6/day6_primecheck.py) to determine if a number is a prime number or not.
 
-Finally, I spent the rest of my hour coding making a [cipher script]((https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day6/day6_decoder.py) which can encode and decode messages by shifting alphabetical characters along by a predetermined number. This loads an alphabet and a logo from a seperate [script]((https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day6/day6_decodeart.py)
+Finally, I spent the rest of my hour coding making a [cipher script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day6/day6_decoder.py) which can encode and decode messages by shifting alphabetical characters along by a predetermined number. This loads an alphabet and a logo from a seperate [script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day6/day6_decodeart.py)
 
 ### Thoughts:
 
