@@ -1,4 +1,5 @@
 from random_word import RandomWords
+
 r = RandomWords()
 
 print("Welcome to hangman :)")
@@ -60,9 +61,9 @@ stages = ['''
 ''']
 difficulty = input("choose difficulty: easy, medium, hard:")
 if difficulty == "easy":
-    max_len = 4
+    max_len = 5
 elif difficulty == "medium":
-    max_len = 6
+    max_len = 8
 elif difficulty == "hard":
     max_len = 10
 else:
@@ -70,7 +71,7 @@ else:
     max_len = 0
     end_of_game = True
 
-chosen_word = str(r.get_random_word(hasDictionaryDef="true", maxLength=max_len))
+chosen_word = str(r.get_random_word(hasDictionaryDef="true", maxLength=max_len)).lower()
 
 hangman = []
 for i in range(len(chosen_word)):

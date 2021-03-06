@@ -64,7 +64,7 @@ I really enjoyed the Reeborgs world challenges, it was good to have the visualis
 
 ## Day 5: 5th March 2021
 
-## Today's progress:
+### Today's progress:
 
 Today I have built my own hangman game which has three levels of difficulty. A random word is generated using the random_words module and then difficulty determines the max length of the word picked at random.
 
@@ -77,3 +77,15 @@ The hangman script can be found [here](https://github.com/blain1995/100DaysOfCod
 If I'm honest, I really like this project - I think it's my favourite project I've worked on so far! I'm happy I managed to completed it with little googling.
 
 Bit sad but I'm actually really proud of this! 
+
+## Day 6: 6th March 2021
+
+### Today's progress:
+
+I realised I had a small bug in yesterdays hangman script for the easy mode, so today I rectified this. I then also created a [number checker]((https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day6/day6_primecheck.py) to determine if a number is a prime number or not.
+
+Finally, I spent the rest of my hour coding making a [cipher script]((https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day6/day6_decoder.py) which can encode and decode messages by shifting alphabetical characters along by a predetermined number. This loads an alphabet and a logo from a seperate [script]((https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day6/day6_decodeart.py)
+
+### Thoughts:
+
+I found these challenges enjoyable, I'm getting better at debugging and fixing small errors.
