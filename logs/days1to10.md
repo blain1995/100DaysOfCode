@@ -89,3 +89,18 @@ Finally, I spent the rest of my hour coding making a [cipher script](https://git
 ### Thoughts:
 
 I found these challenges enjoyable, I'm getting better at debugging and fixing small errors.
+
+## Day 7: 7th March 2021
+
+### Today's progress:
+
+Today I made a [silent auction program](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day7/day7_silentauction.py)  which uses a dictionary to store bids and once all bids have been entered, loops through the keys to identify the highest bid and winner.
+
+I also learned how to clear the console within the script. This won't work if using an IDE like PyCharm but will work when script is ran using terminal.
+
+This script also imports a logo from a seperate [art script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day7/day7_art.py)
+
+### Thoughts
+
+Definitely a bit more comfortable with dictionaries now. In the past I've learnt about dictionaries using DataCamp etc but haven't really had much need for them in my everyday work. This project has definitely helped me feel more confident using them.
+
