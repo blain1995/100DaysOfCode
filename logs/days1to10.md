@@ -104,3 +104,12 @@ This script also imports a logo from a seperate [art script](https://github.com/
 
 Definitely a bit more comfortable with dictionaries now. In the past I've learnt about dictionaries using DataCamp etc but haven't really had much need for them in my everyday work. This project has definitely helped me feel more confident using them.
 
+## Day 8: 8th March 2021
+
+### Today's progress:
+
+Today I made a program to make a [leap year calculator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day8/day8_leapyear.py) and also a normal [calculator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day8/day8_calculator.py) which uses a logo imported from an [art script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day8/day8_art.py)
+
+### Thoughts:
+
+Not my favourite projects if I'm honest!
