@@ -100,7 +100,7 @@ I also learned how to clear the console within the script. This won't work if us
 
 This script also imports a logo from a seperate [art script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day7/day7_art.py)
 
-### Thoughts
+### Thoughts:
 
 Definitely a bit more comfortable with dictionaries now. In the past I've learnt about dictionaries using DataCamp etc but haven't really had much need for them in my everyday work. This project has definitely helped me feel more confident using them.
 
@@ -113,3 +113,18 @@ Today I made a program to make a [leap year calculator](https://github.com/blain
 ### Thoughts:
 
 Not my favourite projects if I'm honest!
+
+## Day 9: 9th March 2021
+
+### Today's progress:
+
+Today I made a [blackjack game!](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day9/day9_blackjack.py) using art from a seperate [script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day9/day9_art.py)
+
+### Thoughts:
+
+I really enjoyed this, although it did take me a little over an hour to write and debug - there is still a small bug where occasionally the program claims the cards add up to 95.. when there are three cards!
+
+I'm going to try and fix this bug over the weekend but for now I am way too tired! Also I want to incorporate a dictionary so I can use the king/queen/jack/ace instead of just using values of 2 - 11.
+
+Lots of functions and while loops again but excited to move onto bigger things.
+
