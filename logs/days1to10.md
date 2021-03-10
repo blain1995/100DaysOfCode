@@ -128,3 +128,18 @@ I'm going to try and fix this bug over the weekend but for now I am way too tire
 
 Lots of functions and while loops again but excited to move onto bigger things.
 
+## Day 10: 10th March 2021
+
+### Today's progress:
+
+Did a lot of coding today! First of all I made a [number guessing game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day10/day10_numguess.py) which has two different modes based on difficulty and imports artwork from a separate [art script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day10/day10_art.py)
+
+Then carried out some debug exercises on Udemy which were really helpful.
+
+Then finally made a [higher or lower game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day10/day10_higherlower.py) based on number of social media followers celebrities have, this also imports some art from the art script. In addition to this, [game data](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day10/day10_gamedata.py) is imported in the form of a list of dictionaries.
+
+### Thoughts:
+
+I had a really good time working through my tasks today!
+
+Ready to push myself a bit more tomorrow.
