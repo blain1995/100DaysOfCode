@@ -4,7 +4,7 @@
 
 ### Today's progress:
 
-Today I made a [coffee machine script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day11/day11_coffee.py) which takes a drink order, checks to see if the resources are available to make the drink, takes in coins and determines if total is enough to pay for the drink, and finally vends the drink.
+Today I made a [coffee machine script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day11/day11_coffee.py) which takes a drink order, checks to see if the resources are available to make the drink, takes in coins and determines if total is enough to pay for the drink, and finally vends the drink.
 
 ### Thoughts:
 

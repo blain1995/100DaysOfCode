@@ -11,15 +11,15 @@ Decided to go back to basics and follow a udemy course which has tonnes of proje
 
 Highlights of the projects I completed have been uploaded:
 
-[bandname generator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_bandname.py)
+[bandname generator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day1/day1_bandname.py)
 
-[tip calculator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_tipcalc.py)
+[tip calculator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day1/day1_tipcalc.py)
 
-[bmi checker](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_bmichecker.py)
+[bmi checker](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day1/day1_bmichecker.py)
 
-[pizza order](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_pizza.py)
+[pizza order](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day1/day1_pizza.py)
 
-[treasure island game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day1/day1_game.py)
+[treasure island game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day1/day1_game.py)
 
 
 ### Thoughts
@@ -34,11 +34,11 @@ Continued the udemy projects, got through days 4 and 5 of this course today. The
 
 Highlights of the projects I completed have been uploaded:
 
-[coin toss](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day2/day2_cointoss.py)
+[coin toss](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day2/day2_cointoss.py)
 
-[rock paper scissors](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day2/day2_rockpaper.py)
+[rock paper scissors](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day2/day2_rockpaper.py)
 
-[basic password generator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day2/day2_password.py)
+[basic password generator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day2/day2_password.py)
 
 ### Thoughts
 
@@ -56,7 +56,7 @@ Haven't made code public as it's currently in a privite thesis repository - will
 
 Elaborated on yesterdays work to create a more complex password generator where the letters/symbols/numbers are shuffled. Also completed Hurdle challenges 1-4 and the maze in [Reeborgs world](https://reeborg.ca/index_en.html)
 
-Password generator can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day4/day4_password_difficult.py)
+Password generator can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day4/day4_password_difficult.py)
 
 ### Thoughts
 
@@ -70,7 +70,7 @@ Today I have built my own hangman game which has three levels of difficulty. A r
 
 The word has to be a dictionary defined word. The game also prints out the stage based on number of incorrect guesses, each time the user starts with 6 lives. The game ends when either lives == 0 or all the letters have been guessed.
 
-The hangman script can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day5/day5_hangman.py)
+The hangman script can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day5/day5_hangman.py)
 
 ### Thoughts:
 
@@ -82,9 +82,9 @@ Bit sad but I'm actually really proud of this!
 
 ### Today's progress:
 
-I realised I had a small bug in yesterdays hangman script for the easy mode, so today I rectified this. I then also created a [number checker](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day6/day6_primecheck.py) to determine if a number is a prime number or not.
+I realised I had a small bug in yesterdays hangman script for the easy mode, so today I rectified this. I then also created a [number checker](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day6/day6_primecheck.py) to determine if a number is a prime number or not.
 
-Finally, I spent the rest of my hour coding making a [cipher script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day6/day6_decoder.py) which can encode and decode messages by shifting alphabetical characters along by a predetermined number. This loads an alphabet and a logo from a seperate [script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day6/day6_decodeart.py)
+Finally, I spent the rest of my hour coding making a [cipher script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day6/day6_decoder.py) which can encode and decode messages by shifting alphabetical characters along by a predetermined number. This loads an alphabet and a logo from a seperate [script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day6/day6_decodeart.py)
 
 ### Thoughts:
 
@@ -94,11 +94,11 @@ I found these challenges enjoyable, I'm getting better at debugging and fixing s
 
 ### Today's progress:
 
-Today I made a [silent auction program](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day7/day7_silentauction.py)  which uses a dictionary to store bids and once all bids have been entered, loops through the keys to identify the highest bid and winner.
+Today I made a [silent auction program](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day7/day7_silentauction.py)  which uses a dictionary to store bids and once all bids have been entered, loops through the keys to identify the highest bid and winner.
 
 I also learned how to clear the console within the script. This won't work if using an IDE like PyCharm but will work when script is ran using terminal.
 
-This script also imports a logo from a seperate [art script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day7/day7_art.py)
+This script also imports a logo from a seperate [art script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day7/day7_art.py)
 
 ### Thoughts:
 
@@ -108,7 +108,7 @@ Definitely a bit more comfortable with dictionaries now. In the past I've learnt
 
 ### Today's progress:
 
-Today I made a program to make a [leap year calculator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day8/day8_leapyear.py) and also a normal [calculator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day8/day8_calculator.py) which uses a logo imported from an [art script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day8/day8_art.py)
+Today I made a program to make a [leap year calculator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day8/day8_leapyear.py) and also a normal [calculator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day8/day8_calculator.py) which uses a logo imported from an [art script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day8/day8_art.py)
 
 ### Thoughts:
 
@@ -118,7 +118,7 @@ Not my favourite projects if I'm honest!
 
 ### Today's progress:
 
-Today I made a [blackjack game!](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day9/day9_blackjack.py) using art from a seperate [script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day9/day9_art.py)
+Today I made a [blackjack game!](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day9/day9_blackjack.py) using art from a seperate [script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day9/day9_art.py)
 
 ### Thoughts:
 
@@ -132,11 +132,11 @@ Lots of functions and while loops again but excited to move onto bigger things.
 
 ### Today's progress:
 
-Did a lot of coding today! First of all I made a [number guessing game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day10/day10_numguess.py) which has two different modes based on difficulty and imports artwork from a separate [art script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day10/day10_art.py)
+Did a lot of coding today! First of all I made a [number guessing game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day10/day10_numguess.py) which has two different modes based on difficulty and imports artwork from a separate [art script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day10/day10_art.py)
 
 Then carried out some debug exercises on Udemy which were really helpful.
 
-Then finally made a [higher or lower game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day10/day10_higherlower.py) based on number of social media followers celebrities have, this also imports some art from the art script. In addition to this, [game data](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/day10/day10_gamedata.py) is imported in the form of a list of dictionaries.
+Then finally made a [higher or lower game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day10/day10_higherlower.py) based on number of social media followers celebrities have, this also imports some art from the art script. In addition to this, [game data](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days1to10/day10/day10_gamedata.py) is imported in the form of a list of dictionaries.
 
 ### Thoughts:
 
