@@ -19,4 +19,9 @@ You are also encouraged to tweet along using #100DaysOfCode
 
 ## Logs
 You can find my logs using the following links:
+
 [days 1 to 10](https://github.com/blain1995/100DaysOfCode/blob/main/logs/days1to10.md)
+
+[days 11 to 20](https://github.com/blain1995/100DaysOfCode/blob/main/logs/days11to20.md)
+
+
