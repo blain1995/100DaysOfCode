@@ -10,3 +10,15 @@ Today I made a [coffee machine script](https://github.com/blain1995/100DaysOfCod
 
 I think this is my favourite project so far!
 (despite the fact I really was not in the mood to code today)
+
+## Day 12: 12th
+
+### Today's progress:
+
+Started some projects using object orientated programming, very different from the previous procedural programming projects I have completed.
+
+Tried to remake my coffee machine project but haven't quite polished it yet.. will upload the script tomorrow!
+
+### Thoughts:
+
+Fun! Definitely a step up from what I had been doing, but very enjoyable!
