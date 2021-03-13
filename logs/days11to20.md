@@ -11,7 +11,7 @@ Today I made a [coffee machine script](https://github.com/blain1995/100DaysOfCod
 I think this is my favourite project so far!
 (despite the fact I really was not in the mood to code today)
 
-## Day 12: 12th
+## Day 12: 12th March 2021
 
 ### Today's progress:
 
@@ -22,3 +22,17 @@ Tried to remake my coffee machine project but haven't quite polished it yet.. wi
 ### Thoughts:
 
 Fun! Definitely a step up from what I had been doing, but very enjoyable!
+
+## Day 13: 13th March 2021
+
+### Today's progress:
+
+Finished my [coffee machine script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day12/day12_OOPcoffee.py) which is the same as my previous coffee machine but uses object orientated programming concepts
+
+Also played around with turtle and pretty table
+
+### Thoughts:
+
+Today was really fun! After having learned about object orientated programming in datacamp a while ago I'm excited to be finally attempting projects which include these skills!
+
+Today was challenging but rewarding :)
