@@ -36,3 +36,15 @@ Also played around with turtle and pretty table
 Today was really fun! After having learned about object orientated programming in datacamp a while ago I'm excited to be finally attempting projects which include these skills!
 
 Today was challenging but rewarding :)
+
+## Day 14: 14th March 2021
+
+### Today's progress:
+
+[Practiced](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day14/day14_oop_test.py) making classes and defining attributes and methods before making a quiz.
+
+The quiz uses [data](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day14/data.py) , a [question model](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day14/question_model.py) and a [quiz brain](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day14/quiz_brain.py) which contain classes and are utilised in the [main script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day14/main.py)
+
+### Thoughts:
+
+Really enjoyed today again, definitely getting the hang of oop and feeling a lot more confident with it. 
