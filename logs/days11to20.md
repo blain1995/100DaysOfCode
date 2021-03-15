@@ -48,3 +48,15 @@ The quiz uses [data](https://github.com/blain1995/100DaysOfCode/blob/main/script
 ### Thoughts:
 
 Really enjoyed today again, definitely getting the hang of oop and feeling a lot more confident with it. 
+
+## Day 15: 15th March 2021
+
+### Today's progress:
+
+Today I spent a little time getting used to using [turtle](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day15/day15_turtle.py) drawing basic shapes and getting used to assigning aesthetics
+
+I then used turtle to make a little [painting](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day15/day15_painting.py), similar to ones made by Damien Hirst. This extracts RGB values from a downloaded [jpeg](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day15/hirst.jpg)
+
+### Thoughts:
+
+This was really fun, I'm excited to use turtle more in the future.
