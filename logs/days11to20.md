@@ -60,3 +60,17 @@ I then used turtle to make a little [painting](https://github.com/blain1995/100D
 ### Thoughts:
 
 This was really fun, I'm excited to use turtle more in the future.
+
+## Day 16: 16th March 2021
+
+### Today's progress:
+
+Today I learnt more about turtle and played around with the turtle,listen() method, as shown [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day16/day16_turtle.py)
+
+Then I used these new skills to make my own [etch-a-sketch](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day16/day16_etch_a_sketch.py) program.
+
+Finally I created a [turtle race](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day16/day16_turtlerace.py) program where you can place a bet on which turtle you believe will win.
+
+### Thoughts:
+
+Again, really enjoyed this evenings project. I'm enjoying creating these little games.
