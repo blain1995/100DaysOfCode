@@ -77,7 +77,7 @@ Again, really enjoyed this evenings project. I'm enjoying creating these little 
 
 ## Day 17: 17th March 2021
 
-## Today's progress:
+### Today's progress:
 
 Today I started making my own version of the classic game [snake!](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day17/day17_main.py)
 
@@ -85,6 +85,18 @@ This uses OOP and imports a snake class from a seperate [script](https://github.
 
 I just worked on the animation today, I will fully finish this tomorrow :)
 
-## Thoughts:
+### Thoughts:
 
 Definitely more comfortable with turtle for animation, especially when setting the headings of objects etc... excited to finish my game tomorrow!
+
+## Day 18: 18th March 2021
+
+### Today's progress:
+
+Finished my [snake game!](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day18/day18_main.py) and updated the [snake class](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day18/day18_snake.py) to add segments when food is consumed.
+
+This has been edited to include [food](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day18/day18_food.py) and to display a [scoreboard](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day18/day18_scoreboard.py) 
+
+### Thoughts:
+
+Learnt a lot about class inheritance, feeling very confident with OOP now!
