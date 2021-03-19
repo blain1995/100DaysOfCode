@@ -100,3 +100,13 @@ This has been edited to include [food](https://github.com/blain1995/100DaysOfCod
 ### Thoughts:
 
 Learnt a lot about class inheritance, feeling very confident with OOP now!
+
+## Day 19: 19th March 2021
+
+### Today's progress:
+
+Today I remade the classic arcade game [Pong](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/day19_pong.py). This uses OOP with three different classes; [players](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/players.py), [the ball](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/ball.py) and finally the [scoreboard](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/scoreboard).
+
+### Thoughts:
+
+This project was useful to help reinforce the OOP skills I have gained over the past week. I'm excited to move onto some more challenging things though as I feel fairly comfortable setting these scripts up now!
