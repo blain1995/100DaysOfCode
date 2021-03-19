@@ -105,7 +105,7 @@ Learnt a lot about class inheritance, feeling very confident with OOP now!
 
 ### Today's progress:
 
-Today I remade the classic arcade game [Pong](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/day19_pong.py). This uses OOP with three different classes; [players](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/players.py), [the ball](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/ball.py) and finally the [scoreboard](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/scoreboard).
+Today I remade the classic arcade game [Pong](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/day19_pong.py). This uses OOP with three different classes; [players](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/players.py), [the ball](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/ball.py) and finally the [scoreboard](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/scoreboard.py).
 
 ### Thoughts:
 
