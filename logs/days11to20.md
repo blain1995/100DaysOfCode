@@ -119,9 +119,9 @@ Did a lot of coding today!
 
 First of all I made a [turtle crossing game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day20/turtle_crossing/main.py) which uses information from seperate [car manager](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day20/turtle_crossing/car_manager.py), [player](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day20/turtle_crossing/player.py) and [scoreboard](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day20/turtle_crossing/scoreboard.py) scripts.
 
-I then updated my previous [snake game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day20/snake_updated/main.py) which now has an edited [scoreboard](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day20/snake_updated/day20_scoreboard.py) which takes the current high score from a text file. This means high score is saved even if the game window is closed down and restarted.
+I then updated my previous [snake game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day20/snake_updated/day20_main.py) which now has an edited [scoreboard](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day20/snake_updated/day20_scoreboard.py) which takes the current high score from a text file. This means high score is saved even if the game window is closed down and restarted.
 
-I then moved on to carry out my first [mail merge](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day19/day20/mail_merge/main.py) which takes a list of names and a template of a letter to generate custom letters for everyone within the list.
+I then moved on to carry out my first [mail merge](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day20/mail_merge/main.py) which takes a list of names and a template of a letter to generate custom letters for everyone within the list.
 
 Finally I then built a [states memory game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days11to20/day20/states_game/main.py)
 
