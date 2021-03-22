@@ -15,3 +15,15 @@ I also made a [nato phonetic alphabet word converter](https://github.com/blain19
 I enjoyed today, made me realise there are definitely times in the past where I should've maybe been using a list/dictionary comprehension instead of a for loop. I like how they make the code more concise and readable.
 
 Excited to learn about tkinter tomorrow :)
+
+## Day 22: 22nd March 2021
+
+### Today's progress
+
+Today I have been learning about Tkinter, and have been playing around with some basic gui programs.
+
+I made my own [miles to km converter]((https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day22/day22_miles_to_km.py) it's quite basic but I'm happy that I can do stuff like this now! Excited to build more programs which utilise gui's in the future.
+
+### Thoughts:
+
+Found today fairly straight forward, although this was definitely a bit of a step up from the turtle programs I have been making. Excited for more of this tomorrow :)
