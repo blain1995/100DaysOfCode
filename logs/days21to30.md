@@ -32,7 +32,7 @@ Found today fairly straight forward, although this was definitely a bit of a ste
 
 ### Today's progress:
 
-Today I made a [pomodoro timer](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day23/day22_pomodoro.py) using my new Tkinter skills
+Today I made a [pomodoro timer](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day23/day23_pomodoro.py) using my new Tkinter skills
 
 ### Thoughts:
 
