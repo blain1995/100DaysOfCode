@@ -22,8 +22,18 @@ Excited to learn about tkinter tomorrow :)
 
 Today I have been learning about Tkinter, and have been playing around with some basic gui programs.
 
-I made my own [miles to km converter]((https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day22/day22_miles_to_km.py) it's quite basic but I'm happy that I can do stuff like this now! Excited to build more programs which utilise gui's in the future.
+I made my own [miles to km converter](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day22/day22_miles_to_km.py) it's quite basic but I'm happy that I can do stuff like this now! Excited to build more programs which utilise gui's in the future.
 
 ### Thoughts:
 
 Found today fairly straight forward, although this was definitely a bit of a step up from the turtle programs I have been making. Excited for more of this tomorrow :)
+
+## Day 23: 23rd March 2021
+
+### Today's progress:
+
+Today I made a [pomodoro timer](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day23/day22_pomodoro.py) using my new Tkinter skills
+
+### Thoughts:
+
+Feeling a bit more confident with Tkinter now, enjoyed this project and can actually see myself using this regularly.
