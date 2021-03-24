@@ -37,3 +37,15 @@ Today I made a [pomodoro timer](https://github.com/blain1995/100DaysOfCode/blob/
 ### Thoughts:
 
 Feeling a bit more confident with Tkinter now, enjoyed this project and can actually see myself using this regularly.
+
+## Day 24: 24th March 2021
+
+### Today's progress:
+
+Today I made a [password manager](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day24/day24_password_manager.py) GUI program which exports inputted passwords to a [data.txt file](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day24/data.txt) for storage. Spoilers the example file contains fake email and passwords!
+
+The program can also generate a password for you if you're feeling particularly uncreative.
+
+### Thoughts:
+
+Nice little program, I enjoyed making this. Impressed with Tkinters broad range of functions but a little dissapointed in the terrible documentation!
