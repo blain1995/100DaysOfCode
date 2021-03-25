@@ -49,3 +49,20 @@ The program can also generate a password for you if you're feeling particularly 
 ### Thoughts:
 
 Nice little program, I enjoyed making this. Impressed with Tkinters broad range of functions but a little dissapointed in the terrible documentation!
+
+## Day 25: 25th March 2021
+
+### Today's progress:
+
+Today I learnt about try/except/else/finally statements and also about the use of JSON data. 
+
+I then went back to my [nato alphabet script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day25/nato/main.py) to include a KeyError if the user enters any non-alphabetical characters into the program.
+
+I also went back and updated my [password manager](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day25/pass_manager/day25_password_manager.py) which now has except statments for KeyErrors and FileNotFoundErrors. I have also switched the data storing format to JSON. 
+
+finally I added a search function where you can search the JSON file and fetch the relevent password and email used for that website.
+
+### Thoughts:
+
+Found today pretty straight forward, I'm enjoying going back to previous scripts to increase the functionality of my code.
+
