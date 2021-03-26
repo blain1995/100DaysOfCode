@@ -66,3 +66,12 @@ finally I added a search function where you can search the JSON file and fetch t
 
 Found today pretty straight forward, I'm enjoying going back to previous scripts to increase the functionality of my code.
 
+### Day 26: 26th March 2021
+
+## Today's progress:
+
+Today was a capstone project using Tkinter and pandas. I made a [flash card app](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day26/main.py) which tests your knowledge of french words. If the user knows the english translation, they should click the tick button, at which point this word is removed from the pool of random french words.
+
+## Thoughts:
+
+This was challenging but good, really enjoying making more GUI programs, as this is not something I do day to day when I use python for work.
