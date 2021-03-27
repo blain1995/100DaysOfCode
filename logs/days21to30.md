@@ -75,3 +75,25 @@ Today was a capstone project using Tkinter and pandas. I made a [flash card app]
 ## Thoughts:
 
 This was challenging but good, really enjoying making more GUI programs, as this is not something I do day to day when I use python for work.
+
+### Day 27: 27th March 2021
+
+## Today's progress:
+
+Did a lot of coding today! Played around with sending emails using smtplib and APIs to make a few projects, see below:
+
+[motivational quote email script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day27/motivation/day27_motivation.py)
+
+[birthday email sending app](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day27/birthday/main.py)
+
+[Kanye quote generator](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day27/Kanye_quotes/main.py)
+
+[International Space Station Tracker](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day27/ISS/day27_ISS_tracker.py) that emails you when the ISS is overhead
+
+## Thoughts:
+
+Really enjoyed today! I've used APIs once or twice in the past but I feel like this was a nice little refresh and I'm excited to use my API & SMTP skills in the future!
+
+
+
+
