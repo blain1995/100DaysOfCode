@@ -94,6 +94,16 @@ Did a lot of coding today! Played around with sending emails using smtplib and A
 
 Really enjoyed today! I've used APIs once or twice in the past but I feel like this was a nice little refresh and I'm excited to use my API & SMTP skills in the future!
 
+## Day 28: 28th March 2021
 
+### Today's progress:
+
+Today I revamped my previous in-console quiz, it now has a GUI using Tkinter, and uses an API to generate new questions everytime.
+
+All the scripts can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day28)
+
+### Thoughts:
+
+I enjoyed going back and improving a previous project. I am definitely feeling a bit more competent with python!
 
 
