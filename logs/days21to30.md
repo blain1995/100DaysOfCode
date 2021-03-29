@@ -112,7 +112,7 @@ I enjoyed going back and improving a previous project. I am definitely feeling a
 
 Today I made a script which uses the [Open Weather Map API](https://openweathermap.org/api) and [Twillio](https://www.twilio.com/) to determine whether it will rain in my area in the next 12 hours and if so, will text me to tell me to bring an umbrella.
 
-The full code is [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day29day29_main.py)
+The full code is [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day29/day29_main.py)
 
 ### Thoughts:
 
