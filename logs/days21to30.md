@@ -106,4 +106,17 @@ All the scripts can be found [here](https://github.com/blain1995/100DaysOfCode/b
 
 I enjoyed going back and improving a previous project. I am definitely feeling a bit more competent with python!
 
+## Day 29: 29th March 2021
+
+### Today's progress:
+
+Today I made a script which uses the [Open Weather Map API](https://openweathermap.org/api) and [Twillio](https://www.twilio.com/) to determine whether it will rain in my area in the next 12 hours and if so, will text me to tell me to bring an umbrella.
+
+The full code is [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day29day29_main.py)
+
+### Thoughts:
+
+This is actually really useful, I have uploaded my code to [Python Anywhere](https://www.pythonanywhere.com/) and set it to run every day at 7am!
+
+Really enjoyed today's project :) 
 
