@@ -120,3 +120,14 @@ This is actually really useful, I have uploaded my code to [Python Anywhere](htt
 
 Really enjoyed today's project :) 
 
+## Day 30: 30th March 2021
+
+### Today's progress:
+
+Today I wrote a script which checks the end of day stock price for a company (as an example I used Tesla) on the last two days of trade, works out what the percentage difference between stock price is at close on those days. If the stock price fluctuates by more than 5% then I recieve the latest 3 news stories about the company as seperate texts.
+
+The script can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days21to30/day30/main.py)
+
+### Thoughts:
+
+I enjoyed this project, solved this with minimal googling of error messages which I was happy with. Feel like APIs are fairly simple now I am a bit more used to them!
