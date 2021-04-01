@@ -11,3 +11,13 @@ You can find my habit tracker script [here](https://github.com/blain1995/100Days
 ### Thoughts:
 
 LOVED today's project and actually think the end product looks really cute
+
+## Day 32: 1st April 2021
+
+### Today's progress:
+
+I made a [script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days31to40/day32/day32_main.py) to automatically update a google spreadsheet of exercise completed per day.
+
+### Thoughts:
+
+again really enjoyed this project, will maybe use this in future!
