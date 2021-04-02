@@ -21,3 +21,15 @@ I made a [script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/d
 ### Thoughts:
 
 again really enjoyed this project, will maybe use this in future!
+
+## Day 32: 2nd April 2021
+
+### Today's progress:
+
+Today I started a flight price tracker! Admittedly it's not fully debugged yet... still having quite a lot of issues.
+
+I have high hopes for this but will have to finish this tomorrow - so unfortunately no code upload today :(
+
+### Thoughts:
+
+Interesting but difficult!
