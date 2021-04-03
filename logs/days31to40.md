@@ -22,7 +22,7 @@ I made a [script](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/d
 
 again really enjoyed this project, will maybe use this in future!
 
-## Day 32: 2nd April 2021
+## Day 33: 2nd April 2021
 
 ### Today's progress:
 
@@ -33,3 +33,16 @@ I have high hopes for this but will have to finish this tomorrow - so unfortunat
 ### Thoughts:
 
 Interesting but difficult!
+
+## Day 34: 3rd April 2021
+
+### Today's progress:
+
+Today I finished the flight price tracker! All the scripts can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days31to40/day33) finally got rid of all the issues. The program inspects a google doc with information of cities I would like to visit, within this spreadsheet there is a column with the maximum price per city that I would be willing to spend. 
+
+Then the flight information for the next 6 months is inspected for each city using the tequila flight API, the cheapest flight is selected and if the price is below the max I'm willing to pay, I recieve a text message with the flight info. 
+
+### Thoughts:
+
+Difficult but I think this was a good refresh of some skills I have learnt over the past few weeks. Tomorrow I am going to attempt add a GUI to this.
+
