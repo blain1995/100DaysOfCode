@@ -46,3 +46,12 @@ Then the flight information for the next 6 months is inspected for each city usi
 
 Difficult but I think this was a good refresh of some skills I have learnt over the past few weeks. Tomorrow I am going to attempt add a GUI to this.
 
+## Day 35: 4th April 2021
+
+### Today's progress:
+
+Changed the flight price tracker scripts so that users can sign up to be added to the google doc and then once cheap flights are found all users in the spreadsheet are emailed. The updated scripts can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days31to40/day35)
+
+### Thoughts:
+
+Today wasn't too bad, yesterdays coding was definitely a bit trickier, but excited to move onto something else to be honest!
