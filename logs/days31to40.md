@@ -55,3 +55,13 @@ Changed the flight price tracker scripts so that users can sign up to be added t
 ### Thoughts:
 
 Today wasn't too bad, yesterdays coding was definitely a bit trickier, but excited to move onto something else to be honest!
+
+## Day 36: 5th April 2021
+
+### Today's progress:
+
+Today I started to learn basic html, I would like to eventually build my own website so I can have a place for all the links to various projects/science communication talks I have been apart of. The html files I have created can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days31to40/day36)
+
+### Thoughts:
+
+I don't know why I always assumed html was difficult and super confusing, maybe because blocks of html can be a bit intimidating to look at if you have no clue what is going on. I enjoyed today, going to learn a bit more about html and css over the next few days so I can start doing more website focused projects
