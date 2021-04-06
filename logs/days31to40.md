@@ -65,3 +65,13 @@ Today I started to learn basic html, I would like to eventually build my own web
 ### Thoughts:
 
 I don't know why I always assumed html was difficult and super confusing, maybe because blocks of html can be a bit intimidating to look at if you have no clue what is going on. I enjoyed today, going to learn a bit more about html and css over the next few days so I can start doing more website focused projects
+
+## Day 37: 6th April 2021
+
+### Today's progress:
+
+Today I learnt about tables and forms in html, the updated files can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days31to40/day37)
+
+### Thoughts:
+
+Found today's exercise fairly simple, definitely more equipped to start thinking about designing my own webiste now but am going to learn some CSS so it doesn't look like a potato :)
