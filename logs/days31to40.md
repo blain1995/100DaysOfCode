@@ -75,3 +75,13 @@ Today I learnt about tables and forms in html, the updated files can be found [h
 ### Thoughts:
 
 Found today's exercise fairly simple, definitely more equipped to start thinking about designing my own webiste now but am going to learn some CSS so it doesn't look like a potato :)
+
+## Day 38: 7th April 2021
+
+### Today's progress:
+
+Started learning some very basic CSS today and updated my little practice website to use external CSS. The updated files can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days31to40/day38)
+
+### Thoughts:
+
+I did enjoy today although I think it'll take a little while to get used to. I did intend to do more but I am absoloutely exhausted so going to have an early night and try again tomorrow :)
