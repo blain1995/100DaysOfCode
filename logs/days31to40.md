@@ -85,3 +85,13 @@ Started learning some very basic CSS today and updated my little practice websit
 ### Thoughts:
 
 I did enjoy today although I think it'll take a little while to get used to. I did intend to do more but I am absoloutely exhausted so going to have an early night and try again tomorrow :)
+
+## Day 39: 8th April 2021
+
+### Today's progress:
+
+Continued with some more advanced CSS, however have just been playing around with different parameters so don't have any code of value to upload today! Will aim to have something to upload tomorrow :)
+
+### Thoughts:
+
+Learning HTML and CSS with the intention of being able to design my own website containing links to all my public talks/publications/social media. Hopefully things will get a bit easier as time goes on and my skills develop!
