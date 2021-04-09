@@ -95,3 +95,13 @@ Continued with some more advanced CSS, however have just been playing around wit
 ### Thoughts:
 
 Learning HTML and CSS with the intention of being able to design my own website containing links to all my public talks/publications/social media. Hopefully things will get a bit easier as time goes on and my skills develop!
+
+## Day 40: 9th April 2021
+
+### Today's progress:
+
+Learnt about relative and absoloute positioning in CSS and played around with some website formatting.
+
+### Thoughts:
+
+Not the biggest fan of CSS if I'm honest but maybe that will change...
