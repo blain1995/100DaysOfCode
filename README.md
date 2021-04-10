@@ -27,3 +27,5 @@ You can find my logs using the following links:
 [days 21 to 30](https://github.com/blain1995/100DaysOfCode/blob/main/logs/days21to30.md)
 
 [days 31 to 40](https://github.com/blain1995/100DaysOfCode/blob/main/logs/days31to40.md)
+
+[days 41 to 50](https://github.com/blain1995/100DaysOfCode/blob/main/logs/days41to50.md)
