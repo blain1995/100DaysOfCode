@@ -1,0 +1,141 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size:1.25em
+}
+
+h1 {
+    margin: 50 auto 0 auto;
+    font-family: 'Sacramento', serif;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Montserrat', serif;
+    color: #11999E;
+}
+
+hr {
+    border: dotted #D3D3D3 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.top_container {
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    position: relative;
+}
+
+.top_cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom_cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.job-title {
+    font-weight: normal;
+}
+
+.me {
+    padding-top: 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2em;
+    text-align: left;
+}
+
+.skills-img {
+    width: 30%;
+    float: left;
+    padding-right: 30px
+}
+
+.skills-img-2 {
+    width: 30%;
+    float: left;
+    padding-right: 30px
+}
+
+.BUTTON_IAP {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 21px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 50px;
+}
+
+.BUTTON_IAP:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin: 20px auto 0px auto;
+    padding: 50px 0 20px;
+}
+
+.intro {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    line-height: 2;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
