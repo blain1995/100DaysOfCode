@@ -19,3 +19,17 @@ Final day of CSS today, learnt about floating and clearing objects. Updated my l
 ### Thoughts:
 
 Challenging but fun, happy to move back to python tomorrow though! Going to be attempting some web scraping using Beautiful Soup :) 
+
+## Day 43: 12th April 2021
+
+### Today's progress:
+
+Back to python today! carried out some webscraping using Beautiful Soup :)
+
+In the [main file](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days41to50/day43/main.py) first scrapes data from a local [html file](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days41to50/day43/website.html) and then moves onto a live website and finally PubMed.
+
+I then also wrote [another file](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days41to50/day43/movies.py) which scrapes Empires top 100 movies list. 
+
+### Thoughts:
+
+I really enjoyed today! Definitely enjoying being back to python although I'm glad I spent a few days getting used to HTML and CSS before attempting web scraping.I can see this being really helpful in the future.
