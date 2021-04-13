@@ -33,3 +33,13 @@ I then also wrote [another file](https://github.com/blain1995/100DaysOfCode/blob
 ### Thoughts:
 
 I really enjoyed today! Definitely enjoying being back to python although I'm glad I spent a few days getting used to HTML and CSS before attempting web scraping.I can see this being really helpful in the future.
+
+## Day 44: 13th April 2021
+
+### Today's progress:
+
+Today I made a program which makes a [music time machine playlist](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days41to50/day44/playlist.py) from a date of the users choosing.
+
+### Thoughts:
+
+Challenging but fun! Found the Spotipy documentation a tiny bit confusing but got there in the end! 
