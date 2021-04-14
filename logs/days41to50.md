@@ -43,3 +43,15 @@ Today I made a program which makes a [music time machine playlist](https://githu
 ### Thoughts:
 
 Challenging but fun! Found the Spotipy documentation a tiny bit confusing but got there in the end! 
+
+## Day 45: 14th April 2021
+
+### Today's progress:
+
+Today I made a short script which uses a combination of webscraping and the smtplib module to send an email when the prcie of an amazon product of choice falls below a target price. 
+
+I called this program [amazon_notiPy](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days41to50/day45/amazon_notiPy.py)
+
+### Thoughts:
+
+I found today enjoyable, definitely getting better at web scraping and more comfortable with python in general! :) 
