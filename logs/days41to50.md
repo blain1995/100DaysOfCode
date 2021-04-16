@@ -55,3 +55,21 @@ I called this program [amazon_notiPy](https://github.com/blain1995/100DaysOfCode
 ### Thoughts:
 
 I found today enjoyable, definitely getting better at web scraping and more comfortable with python in general! :) 
+
+## Day 46: 16th April 2021
+
+### Today's progress:
+
+Took a day off from 100 days of code yesterday as PhD got the best of me and felt very stressed!
+
+Back on it today learning how to use selenium for web scraping. I recreated my amazon_notiPy [using selenium](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days41to50/day46/main.py)
+
+I also scraped the python website to automatically print a dictionary of there upcoming [events](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days41to50/day46/python_events.py)
+
+Also learned how to use selenium to click links and fill in search boxes using this [code](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days41to50/day46/wiki.py)
+
+Finally I used selenium to automatically play a [cookie clicker game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days41to50/day46/game.py)
+
+### Thoughts:
+
+Really enjoyed today! Selenium is definitely a very useful tool :)
