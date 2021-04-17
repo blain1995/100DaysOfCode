@@ -73,3 +73,14 @@ Finally I used selenium to automatically play a [cookie clicker game](https://gi
 ### Thoughts:
 
 Really enjoyed today! Selenium is definitely a very useful tool :)
+
+## Day 47: 17th April 2021
+
+### Today's progress:
+
+Started using selenium to save LinkedIn job adverts matching a specific keyword automatically. Ran into a few issues so going to finish tomorrow!
+
+### Thoughts:
+
+Challenging but fun!
+ 
