@@ -84,3 +84,13 @@ Started using selenium to save LinkedIn job adverts matching a specific keyword 
 
 Challenging but fun!
  
+## Day 48: 18th April 2021
+
+### Today's progress:
+
+Today  I did some python code for my PhD project, I have uploaded this to my private thesis repository!
+
+### Thoughts:
+
+One of the unfortunate times where work is taking over - but at least I did my hours coding!
+
