@@ -94,3 +94,12 @@ Today  I did some python code for my PhD project, I have uploaded this to my pri
 
 One of the unfortunate times where work is taking over - but at least I did my hours coding!
 
+## Day 49: 19th April 2021
+
+### Today's progress:
+
+Today I used selenium to make a [twitter bot](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days41to50/day49/twitter.py) that checks my internet speed and then sends a tweet if it is slower than the provider promised.
+
+### Thoughts:
+
+Today was fun! enjoyed that much more than the LinkedIn project :)
