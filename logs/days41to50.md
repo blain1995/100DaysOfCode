@@ -103,3 +103,13 @@ Today I used selenium to make a [twitter bot](https://github.com/blain1995/100Da
 ### Thoughts:
 
 Today was fun! enjoyed that much more than the LinkedIn project :)
+
+## Day 50: 20th April 2021
+
+### Today's progress:
+
+Today I made a little [instagram follower bot](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days41to50/day50/instagram.py) which follows every account that follows a specified account of interest using selenium.
+
+### Thoughts:
+
+Today was fun! Finding selenium easier to use and think I may be able to use this for data mining in the future.
