@@ -22,11 +22,21 @@ Challenging, definitely think my python skills are quite broad now! Prior to sta
 
 ## Day 53: 23rd April 2021
 
-## Today's progress: 
+### Today's progress: 
 
 Have quite a big presentation next week so dedicated todays coding time to thesis based work, which I have uploaded to my thesis repository (currently private but will be made public soon)
 
-## Thoughts:
+### Thoughts:
 
 Trying not to let work take over, although I think I may have tomorrow off as I really need a rest and feel like I am pushing myself to do a lot at once - trying to avoid burn out!
+
+## Day 54: 25th April 2021
+
+### Today's progress:
+
+Today I used flask to make a web based [number guessing game](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days51to60/day54/number_guess.py) where you click the link in the python console and it takes you to a webpage asking you to guess a number and add it to the end of the url, the homepage then updates to tell you if your guess was too high/low or correct!
+
+### Thoughts:
+
+This was fun! Bit different to what I am used to. Getting used to decorator functions!
 
