@@ -40,3 +40,14 @@ Today I used flask to make a web based [number guessing game](https://github.com
 
 This was fun! Bit different to what I am used to. Getting used to decorator functions!
 
+## Day 55: 26th April 2021
+
+### Today's progress:
+
+Today I used flask and some website templates to start building more complex websites! First example is [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days51to60/day55/website_test) and the second example is [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days51to60/day55/name_card) 
+
+Both are optimised to be viewed on google chrome.
+
+### Thoughts:
+
+I'm actually really excited about this - I have bought my own domain name and I think I'm going to play around with templates this weekend to get it looking nice :)
