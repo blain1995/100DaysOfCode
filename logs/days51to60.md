@@ -44,10 +44,18 @@ This was fun! Bit different to what I am used to. Getting used to decorator func
 
 ### Today's progress:
 
-Today I used flask and some website templates to start building more complex websites! First example is [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days51to60/day55/website_test) and the second example is [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days51to60/day55/name_card) 
-
-Both are optimised to be viewed on google chrome.
+Today I used flask and some website templates to start building more complex websites! An example is [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days51to60/day55/name_card) 
 
 ### Thoughts:
 
 I'm actually really excited about this - I have bought my own domain name and I think I'm going to play around with templates this weekend to get it looking nice :)
+
+## Day 56: 27th April 2021
+
+### Today's progress:
+
+Today I learned about Jinja to allow for dyanmic HTML in website. Built a blog site which accesses blog posts from an API and uses Jinja to incorporate this into th website HTML. All files for this project are located [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days51to60/day56)
+
+### Thoughts:
+
+Yet another enjoyable day :) I'm excited about getting my personal site up and running :)
