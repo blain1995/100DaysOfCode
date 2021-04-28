@@ -59,3 +59,13 @@ Today I learned about Jinja to allow for dyanmic HTML in website. Built a blog s
 ### Thoughts:
 
 Yet another enjoyable day :) I'm excited about getting my personal site up and running :)
+
+## Day 57: 28th April 2021
+
+### Today's progress:
+
+Started a project today using bootstrap, don't want to upload prematurely so will continue to work on it tomorrow and update then!
+
+### Thoughts:
+
+Enjoying doing a bit more of the web development stuff!
