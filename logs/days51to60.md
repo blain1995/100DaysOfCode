@@ -69,3 +69,14 @@ Started a project today using bootstrap, don't want to upload prematurely so wil
 ### Thoughts:
 
 Enjoying doing a bit more of the web development stuff!
+
+## Day 58: 29th April 2021
+
+### Today's progress:
+
+Still playing around with bootstrap, few more things to change before upload but don't have time to do more than 1 hour of code tonight!
+
+### Thoughts:
+
+Enjoyable but definitely different to my day to day coding for PhD!
+
