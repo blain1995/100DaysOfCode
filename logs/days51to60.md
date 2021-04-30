@@ -80,3 +80,12 @@ Still playing around with bootstrap, few more things to change before upload but
 
 Enjoyable but definitely different to my day to day coding for PhD!
 
+## Day 59: 30th April 2021
+
+### Today's progress:
+
+Messed around with navbar and the grid layout in bootstrap - making progress with my bootstrap project - promise will be uploading soon!
+
+### Thoughts:
+
+Struggled to get the javascript to work with the latest version of bootstrap, although it is currently a beta version so maybe it's not just me! Have resorted to using an older version of bootstrap and the nav bar seems to be working now!
