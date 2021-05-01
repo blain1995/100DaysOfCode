@@ -89,3 +89,13 @@ Messed around with navbar and the grid layout in bootstrap - making progress wit
 ### Thoughts:
 
 Struggled to get the javascript to work with the latest version of bootstrap, although it is currently a beta version so maybe it's not just me! Have resorted to using an older version of bootstrap and the nav bar seems to be working now!
+
+## Day 60: 1st May 2021
+
+### Today's progress:
+
+Learned about containers and buttons in bootstrap... my project is coming along nicely! My website is now responsive which is good, also learned how to rotate images in CSS
+
+### Thoughts:
+
+Making progress slowly but am enjoying doing a longer project!
