@@ -9,3 +9,13 @@ Today I formatted the features and testimonial section of my fake start-up websi
 ### Thoughts:
 
 It's definitely looking a lot better! Actually think it looks half decent 
+
+## Day 62: 3rd May 2021
+
+### Today's progress:
+
+Today I learned about bootstrap cards and z-indexing and used it to update the pricing section of my fake start-up website
+
+### Thoughts:
+
+It's really starting to come together!
