@@ -19,3 +19,15 @@ Today I learned about bootstrap cards and z-indexing and used it to update the p
 ### Thoughts:
 
 It's really starting to come together!
+
+## Day 63: 4th May 2021 (May the fourth be with you)
+
+### Today's progress:
+
+Today I learned about media query breakpoints and edited my fake start-up website accordingly :) Now on mobile the main image is no longer rotated and has a static position to prevent the z-indexing seen on desktop.
+
+Formatted a couple of other things - my aim is to finish this tomorrow and upload the full website code to here!
+
+### Thoughts:
+
+This actually looks like a proper website now, tomorrow I am going to refactor my code a little and finish this project
