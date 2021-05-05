@@ -31,3 +31,13 @@ Formatted a couple of other things - my aim is to finish this tomorrow and uploa
 ### Thoughts:
 
 This actually looks like a proper website now, tomorrow I am going to refactor my code a little and finish this project
+
+## Day 64: 5th May 2021
+
+### Today's progress:
+
+Tidied up my fake start up website code :) It is a fake site to find your dog it's perfect friend called [Tindog](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days61to70/day64)
+
+### Thoughts:
+
+This project has definitely stretched my coding abilities, I feel a lot more confident with web design now which will help with setting up my domain name properly :)
