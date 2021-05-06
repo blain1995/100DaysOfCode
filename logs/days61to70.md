@@ -41,3 +41,13 @@ Tidied up my fake start up website code :) It is a fake site to find your dog it
 ### Thoughts:
 
 This project has definitely stretched my coding abilities, I feel a lot more confident with web design now which will help with setting up my domain name properly :)
+
+## Day 65: 6th May 2021
+
+### Today's progress:
+
+Revisted my blog project to add more styling using bootstrap. Still messing around with the aesthetics though! Will finish and upload tomorrow :)
+
+### Thoughts:
+
+Very enjoyable. I am liking CSS now that I have more developed CSS skills!
