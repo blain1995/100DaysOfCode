@@ -51,3 +51,13 @@ Revisted my blog project to add more styling using bootstrap. Still messing arou
 ### Thoughts:
 
 Very enjoyable. I am liking CSS now that I have more developed CSS skills!
+
+## Day 66: 7th May 2021
+
+### Today's progress:
+
+Finished my blog styling project that I started yesterday uses a combination of bootstrap, flask and jinja to style and host. The files can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days61to70/day65)
+
+### Thoughts:
+
+Definitely looks better than my first blog project! :)
