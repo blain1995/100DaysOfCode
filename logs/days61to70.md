@@ -61,3 +61,13 @@ Finished my blog styling project that I started yesterday uses a combination of 
 ### Thoughts:
 
 Definitely looks better than my first blog project! :)
+
+## Day 67: 8th May 2021
+
+### Today's progress:
+
+Learnt about implementing html forms in Flask, just have one more bit to sort out before uploading code tomorrow!
+
+### Thoughts:
+
+Not my favourite part of html if I am honest!
