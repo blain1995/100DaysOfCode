@@ -71,3 +71,13 @@ Learnt about implementing html forms in Flask, just have one more bit to sort ou
 ### Thoughts:
 
 Not my favourite part of html if I am honest!
+
+## Day 68: 9th May 2021
+
+### Today's progress:
+
+Today I updated my [blog project](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days61to70/day65) by updating the [contact.html](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days61to70/day67/contact.html) and [main.py](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days61to70/day67/main.py) so that the contact form works and now sends an email to my gmail account with the senders contact info and message.
+
+### Thoughts:
+
+Glad this is working now, it was bugging me that the contact form looked nice but did nothing up until this point!
