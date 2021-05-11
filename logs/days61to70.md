@@ -81,3 +81,13 @@ Today I updated my [blog project](https://github.com/blain1995/100DaysOfCode/blo
 ### Thoughts:
 
 Glad this is working now, it was bugging me that the contact form looked nice but did nothing up until this point!
+
+## Day 69: 11th May 2021
+
+### Today's progress:
+
+Today I learnt about more advanced html forms and used them to make a little project that can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days61to70/day69)
+
+### Thoughts:
+
+A little challenging but hopefully useful in the future!
