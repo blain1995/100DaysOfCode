@@ -91,3 +91,13 @@ Today I learnt about more advanced html forms and used them to make a little pro
 ### Thoughts:
 
 A little challenging but hopefully useful in the future!
+
+## Day 70: 12th May 2021
+
+### Today's progress:
+
+Today I furthered my flask/jinja/bootstrap/wtforms skills to make this [cafe recommendations project](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days61to70/day70)
+
+### Thoughts:
+
+Enjoyable :) Probably ready to move on to other things though!
