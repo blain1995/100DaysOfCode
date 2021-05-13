@@ -33,3 +33,5 @@ You can find my logs using the following links:
 [days 51 to 60](https://github.com/blain1995/100DaysOfCode/blob/main/logs/days51to60.md)
 
 [days 61 to 70](https://github.com/blain1995/100DaysOfCode/blob/main/logs/days61to70.md)
+
+[days 71 to 80](https://github.com/blain1995/100DaysOfCode/blob/main/logs/days71to80.md)
