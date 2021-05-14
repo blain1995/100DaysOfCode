@@ -2,7 +2,7 @@
 
 ## Day 71: 13th May 2021
 
-### Today's progress:## Day 71:
+### Today's progress:
 
 Used Selenium to scrape data from pubmed and web of science as a fun little literature search exercise
 
