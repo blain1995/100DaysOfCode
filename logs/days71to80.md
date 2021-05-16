@@ -19,3 +19,13 @@ Learned how to use basic SQL to create a [library project](https://github.com/bl
 ### Thoughts:
 
 I enjoyed this, think SQL will take a little while to get used to but hopefully this will be useful in the future :)
+
+## Day 73: 16th May 2021
+
+### Today's progress:
+
+Started a capstone project which is an improvement on a previous movie rating website that I started a while ago. This updated project uses Flask, Jinja, WTForms, SQL and API keys to display my top 10 films, with the ability to update ratings, add and delete films. Project is not quite finished yet - will finish and upload tomorrow.
+
+### Thoughts:
+
+Finding this challenging, but this is good because it's forcing me to revisit APIs and a few other python methods that I haven't used in a while.
