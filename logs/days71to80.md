@@ -29,3 +29,13 @@ Started a capstone project which is an improvement on a previous movie rating we
 ### Thoughts:
 
 Finding this challenging, but this is good because it's forcing me to revisit APIs and a few other python methods that I haven't used in a while.
+
+## Day 74: 18th May 2021
+
+### Today's progress:
+
+Got the API to work so that you can now add a new film to the ranked list by querying the API and it displays all the options with a matching title. Tomorrow's job is to get it working so that you can select the film specifically and send the information to the add.html page
+
+### Thoughts: 
+
+I am exhausted this week as I have organised a virtual science festival for the public - definitely trying to do too much at once. Excited to finish this project tomorrow.
