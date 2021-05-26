@@ -39,3 +39,13 @@ Got the API to work so that you can now add a new film to the ranked list by que
 ### Thoughts: 
 
 I am exhausted this week as I have organised a virtual science festival for the public - definitely trying to do too much at once. Excited to finish this project tomorrow.
+
+## Day 75: 26th May 2021
+
+### Today's progress:
+
+Finally finished my top movies project. All the files are [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days71to80/day73)
+
+### Thoughts:
+
+Took a few days off as juggling pint of science and PhD and an hour of code each day proved to be a bit overwhelming - but feeling energised and ready for the final 25 days.
