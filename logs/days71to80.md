@@ -49,3 +49,15 @@ Finally finished my top movies project. All the files are [here](https://github.
 ### Thoughts:
 
 Took a few days off as juggling pint of science and PhD and an hour of code each day proved to be a bit overwhelming - but feeling energised and ready for the final 25 days.
+
+## Day 76: 27th May 2021
+
+### Today's progress:
+
+Today I focused a bit more on the design aspects of websites - trying to actually build something asthetically pleasing! The mock up I made used canva as can be viewed [here](https://www.canva.com/design/DAEfsPIQrWw/-C86FMS83tPKtIWdxj8lPw/view?website#4)
+
+Eventually going to try and actually make a mock website using that as a design
+
+### Thoughts:
+
+I actually think this looks like a professional website... maybe I'm naive!
