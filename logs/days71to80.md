@@ -62,7 +62,7 @@ Eventually going to try and actually make a mock website using that as a design
 
 I actually think this looks like a professional website... maybe I'm naive!
 
-## Day 77: 27th May 2021
+## Day 77: 28th May 2021
 
 ### Today's progress:
 
@@ -71,3 +71,13 @@ Today I started learning how to build a REST API using flask.
 ### Thoughts:
 
 Fun! Need to finish a few bits tomorrow before uploading code
+
+## Day 78: 29th May 2021
+
+### Today's progress: 
+
+Used today's coding time to write some code for my PhD, going to upload to my thesis repository when finished.
+
+### Thoughts:
+
+Very stressed! 
