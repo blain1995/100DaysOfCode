@@ -81,3 +81,14 @@ Used today's coding time to write some code for my PhD, going to upload to my th
 ### Thoughts:
 
 Very stressed! 
+
+## Day 79: 22nd June 2021
+
+### Today's progress:
+
+After a long break - decided while learning the website design stuff has been fun, maybe utilising my 100 day's of code time to learn more data science based python - I might be less stressed. Today I reminded myself of some basic pandas using some data on salaries of collage majors.
+Raw data and code can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days71to80/day79)
+
+### Thoughts:
+
+quite a nice way to get back into my 100 days of code journey!
