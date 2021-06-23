@@ -92,3 +92,13 @@ Raw data and code can be found [here](https://github.com/blain1995/100DaysOfCode
 ### Thoughts:
 
 quite a nice way to get back into my 100 days of code journey!
+
+## Day 80
+
+### Today's progress:
+
+Reminded myself about matplotlib using some data about stack overflow posts to gauge popularity of programming languages. Raw data and code can be found [here](https://github.com/blain1995/100DaysOfCode/blob/main/scripts/days71to80/day80)
+
+### Thoughts:
+
+Quite an easy day but I enjoyed it - interesting to see the big spike in python popularity in 2020!
