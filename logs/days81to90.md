@@ -21,3 +21,13 @@ Raw data and code can be found [here](https://github.com/blain1995/100DaysOfCode
 ### Thoughts:
 
 A bit fiddly but fun!
+
+## Day 83: 27th Jun 2021
+
+### Today's progress:
+
+Used today's coding time to complete some of the Rosalind bioinformatics problems with python. This has been uploaded to my ROSALIND_solutions repo.
+
+### Thoughts:
+
+Really enjoyed this!
